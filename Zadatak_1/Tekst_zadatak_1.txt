@@ -1,0 +1,10 @@
+Pripremiti fajlove sa tekstom za traženje podstringovi. Fajlovi treba da imaju 100, 1000, 10 000 i 100 000 reči. Pripremiti fajlove sa smislenim tekstom napisanim karakterima ASCII tabele (najviše 256 različitih znakova) i fajlove koji se sastoje samo iz heksadekadnih cifara. Izvršiti pretragu podstringova dužine 5, 10, 20 i 50 karaktera u svim kreiranim fajlovima. Uporediti performanse algoritama za sve navedene slučajeve po vremenu izvršenja. Rezultate poređenja predati uz projekat u formi izveštaja. Svaki student implementira dva algoritma:
+
+Studenti sa parnim brojem indeksa vrše traženje podstringa u tekstu Rabin-Karp algoritmom, dok studenti sa neparnim brojem indeksa treba da koriste Knut-Moris-Prat.
+
+Studenti čija je suma cifara broja indeksa paran broj treba da implementiraju Levenstein algoritam za traženje reči koje su pogrešno napisane. U kreiranim fajlovima (sa ASCII i heksadekadnom azbukom) izvršiti traženje stringova približne dužine 5, 10 i 20 karaktera i prikazati pronađene stringove koji su na udaljenosti većoj od 0 i manjoj od 20% dužine stringa koji se traži. 
+
+Studenti čija je suma cifara broja indeksa neparan broj treba da implementiraju SoundEx algoritam za traženje reči koje su potencijalno pogrešno napisane. U kreiranim fajlovima sa ASCII azbukom izvršiti traženje stringova približne dužine 5, 10 i 20 karaktera i prikazati pronađene stringove koji imaju isti kod, ali ne predstavljaju iste reči. 
+ 
+
+Napomena: Projekat imenovati brojem indeksa i programskim jezikom implementacije. 

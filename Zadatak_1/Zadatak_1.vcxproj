@@ -130,8 +130,19 @@
     <ClCompile Include="Zadatak_1.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\..\Users\Admin\Desktop\1984.txt" />
-    <Text Include="..\..\..\..\..\Users\Admin\Desktop\Tekst_zadatak_1.txt" />
+    <ClInclude Include="Algorithms.h" />
+    <ClInclude Include="MeasureTime.h" />
+    <ClInclude Include="ReadFiles.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Texts\1984_100.txt" />
+    <Text Include="Texts\1984_1000.txt" />
+    <Text Include="Texts\1984_10000.txt" />
+    <Text Include="Texts\1984_100000.txt" />
+    <Text Include="Texts\hex_100.txt" />
+    <Text Include="Texts\hex_1000.txt" />
+    <Text Include="Texts\hex_10000.txt" />
+    <Text Include="Texts\hex_100000.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

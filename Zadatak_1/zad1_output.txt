@@ -1,0 +1,499 @@
+Trazenje u tekstu od 100 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 55 mikrosekundi
+Patern duzine 10
+Prosecno vreme izvrsavanja: 78 mikrosekundi
+Patern duzine 20
+Prosecno vreme izvrsavanja: 51 mikrosekundi
+Patern duzine 50
+Prosecno vreme izvrsavanja: 55 mikrosekundi
+------------------------
+Trazenje u tekstu od 1000 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 458 mikrosekundi
+Patern duzine 10
+Prosecno vreme izvrsavanja: 474 mikrosekundi
+Patern duzine 20
+Prosecno vreme izvrsavanja: 650 mikrosekundi
+Patern duzine 50
+Prosecno vreme izvrsavanja: 407 mikrosekundi
+------------------------
+Trazenje u tekstu od 10000 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 2.143 ms
+Patern duzine 10
+Prosecno vreme izvrsavanja: 4.091 ms
+Patern duzine 20
+Prosecno vreme izvrsavanja: 3.758 ms
+Patern duzine 50
+Prosecno vreme izvrsavanja: 4.281 ms
+------------------------
+Trazenje u tekstu od 100000 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 3.257 ms
+Patern duzine 10
+Prosecno vreme izvrsavanja: 9.965 ms
+Patern duzine 20
+Prosecno vreme izvrsavanja: 9.429 ms
+Patern duzine 50
+Prosecno vreme izvrsavanja: 44.465 ms
+------------------------
+
+- HEX FAJLOVI -
+
+Trazenje u heksadecimalnom tekstu od 100 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 68 mikrosekundi
+Patern duzine 10
+Prosecno vreme izvrsavanja: 69 mikrosekundi
+Patern duzine 20
+Prosecno vreme izvrsavanja: 461 mikrosekundi
+Patern duzine 50
+Prosecno vreme izvrsavanja: 106 mikrosekundi
+------------------------
+Trazenje u heksadecimalnom tekstu od 1000 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 457 mikrosekundi
+Patern duzine 10
+Prosecno vreme izvrsavanja: 672 mikrosekundi
+Patern duzine 20
+Prosecno vreme izvrsavanja: 578 mikrosekundi
+Patern duzine 50
+Prosecno vreme izvrsavanja: 580 mikrosekundi
+------------------------
+Trazenje u heksadecimalnom tekstu od 10000 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 4.429 ms
+Patern duzine 10
+Prosecno vreme izvrsavanja: 5.101 ms
+Patern duzine 20
+Prosecno vreme izvrsavanja: 5.209 ms
+Patern duzine 50
+Prosecno vreme izvrsavanja: 5.146 ms
+------------------------
+Trazenje u heksadecimalnom tekstu od 100000 karaktera
+Patern duzine 5
+Prosecno vreme izvrsavanja: 58.383 ms
+Patern duzine 10
+Prosecno vreme izvrsavanja: 56.906 ms
+Patern duzine 20
+Prosecno vreme izvrsavanja: 49.725 ms
+Patern duzine 50
+Prosecno vreme izvrsavanja: 21.213 ms
+------------------------
+
+- LEVENSTEIN ALGORITAM -
+
+Trazenje u tekstu od 100 karaktera
+Pogresno napisane "party" i duzine 5
+Prosecno vreme izvrsavanja: 805 mikrosekundi
+Pogresno napisane "telescreen" i duzine 10
+Prosecno vreme izvrsavanja: 388 mikrosekundi
+Pogresno napisane "world-within-a-world" i duzine 20
+Prosecno vreme izvrsavanja: 273 mikrosekundi
+------------------------
+Trazenje u tekstu od 1000 karaktera
+Pogresno napisane "party" i duzine 5
+part 1
+part 1
+party. 1
+Prosecno vreme izvrsavanja: 7.5 ms
+Pogresno napisane "telescreen" i duzine 10
+telescreen, 1
+telescreen. 1
+Prosecno vreme izvrsavanja: 6.187 ms
+Pogresno napisane "world-within-a-world" i duzine 20
+Prosecno vreme izvrsavanja: 2.65 ms
+------------------------
+Trazenje u tekstu od 10000 karaktera
+Pogresno napisane "party" i duzine 5
+part 1
+part 1
+party. 1
+partly 1
+Party 1
+part 1
+partly 1
+Party 1
+Party 1
+Party 1
+Party 1
+part, 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+Prosecno vreme izvrsavanja: 90.149 ms
+Pogresno napisane "telescreen" i duzine 10
+telescreen, 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen, 1
+telescreen, 1
+telescreen, 1
+telescreen. 1
+telescreen. 1
+Prosecno vreme izvrsavanja: 71.537 ms
+Pogresno napisane "world-within-a-world" i duzine 20
+Prosecno vreme izvrsavanja: 36.153 ms
+------------------------
+Trazenje u tekstu od 100000 karaktera
+Pogresno napisane "party" i duzine 5
+part 1
+part 1
+party. 1
+partly 1
+Party 1
+part 1
+partly 1
+Party 1
+Party 1
+Party 1
+Party 1
+part, 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+party, 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+partly 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part, 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+part 1
+Party 1
+part 1
+Party 1
+Party 1
+Party 1
+part 1
+part 1
+Party 1
+part. 1
+Party 1
+partly 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+partly 1
+Party 1
+Party 1
+parts 1
+Party 1
+Party 1
+Party 1
+parts 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+partly 1
+partly 1
+part 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+parts 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+part, 1
+Party 1
+part 1
+Party 1
+part 1
+part 1
+part 1
+part 1
+part 1
+partly 1
+partly 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+part 1
+partly 1
+partly 1
+parts 1
+part 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+partly 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+parts 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+Party 1
+part 1
+Party 1
+Party 1
+Party 1
+part 1
+part 1
+part 1
+partly 1
+Party 1
+Party 1
+partly 1
+parts 1
+Prosecno vreme izvrsavanja: 1508.8 ms
+Pogresno napisane "telescreen" i duzine 10
+telescreen, 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen, 1
+telescreen, 1
+telescreen, 1
+telescreen. 1
+telescreen. 1
+telescreen, 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen,' 2
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreens. 2
+telescreens 1
+telescreens, 2
+telescreens 1
+telescreens. 2
+telescreens. 2
+telescreen. 1
+telescreen!' 2
+telescreens 1
+telescreen. 1
+telescreens, 2
+telescreen. 1
+telescreens 1
+telescreens, 2
+telescreen, 1
+telescreens. 2
+telescreen. 1
+telescreens. 2
+telescreen. 1
+telescreen, 1
+telescreen. 1
+telescreen, 1
+telescreen, 1
+telescreens, 2
+telescreen, 1
+telescreen. 1
+telescreen. 1
+telescreens, 2
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreen. 1
+telescreens. 2
+telescreen. 1
+telescreen, 1
+telescreen. 1
+telescreen. 1
+telescreen, 1
+Prosecno vreme izvrsavanja: 653.711 ms
+Pogresno napisane "world-within-a-world" i duzine 20
+Prosecno vreme izvrsavanja: 236.434 ms
+------------------------
+Trazenje u tekstu od 100 karaktera
+Pogresno napisane "F30EA" i duzine 5
+Prosecno vreme izvrsavanja: 874 mikrosekundi
+Pogresno napisane "15AB92CE62" i duzine 10
+Prosecno vreme izvrsavanja: 789 mikrosekundi
+Pogresno napisane "4CAC F4843E41 EFE207" i duzine 20
+Prosecno vreme izvrsavanja: 340 mikrosekundi
+------------------------
+Trazenje u tekstu od 1000 karaktera
+Pogresno napisane "F30EA" i duzine 5
+Prosecno vreme izvrsavanja: 6.273 ms
+Pogresno napisane "15AB92CE62" i duzine 10
+Prosecno vreme izvrsavanja: 7.827 ms
+Pogresno napisane "4CAC F4843E41 EFE207" i duzine 20
+Prosecno vreme izvrsavanja: 2.759 ms
+------------------------
+Trazenje u tekstu od 10000 karaktera
+Pogresno napisane "F30EA" i duzine 5
+Prosecno vreme izvrsavanja: 73.903 ms
+Pogresno napisane "15AB92CE62" i duzine 10
+Prosecno vreme izvrsavanja: 70.29 ms
+Pogresno napisane "4CAC F4843E41 EFE207" i duzine 20
+Prosecno vreme izvrsavanja: 21.14 ms
+------------------------
+Trazenje u tekstu od 100000 karaktera
+Pogresno napisane "F30EA" i duzine 5
+F30A 1
+F3AEA 1
+F30ED 1
+F30E6 1
+F30E7 1
+F30E6 1
+F30E8 1
+F33EA 1
+Prosecno vreme izvrsavanja: 651.431 ms
+Pogresno napisane "15AB92CE62" i duzine 10
+Prosecno vreme izvrsavanja: 839.519 ms
+Pogresno napisane "4CAC F4843E41 EFE207" i duzine 20
+Prosecno vreme izvrsavanja: 231.207 ms
+------------------------
+
+C:\Fakultet\5. Semestar\Projektovanje i analiza algoritama\PiAA\Zadatak_1\x64\Debug\Zadatak_1.exe (process 2140) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

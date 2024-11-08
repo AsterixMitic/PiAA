@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Text files">
+      <UniqueIdentifier>{28ff358c-f63f-4fc0-8fc0-a2a7cf4318dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Zadatak_1.cpp">
@@ -20,7 +23,40 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\..\Users\Admin\Desktop\1984.txt" />
-    <Text Include="..\..\..\..\..\Users\Admin\Desktop\Tekst_zadatak_1.txt" />
+    <ClInclude Include="ReadFiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MeasureTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Texts\1984_100.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\1984_1000.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\1984_10000.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\1984_100000.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\hex_100.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\hex_1000.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\hex_10000.txt">
+      <Filter>Text files</Filter>
+    </Text>
+    <Text Include="Texts\hex_100000.txt">
+      <Filter>Text files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -1,0 +1,25 @@
+Implementirati po priloženoj tabeli, gde prva kolona predstavlja cifru jedinicu broja indeksa, tri algoritma iz odgovarajuće vrste za rešavanje navedenog problema. 
+
+Problem zadat u nastavku rešiti primenom tri različita algoritma za sortiranje i uporediti njihove performanse po vremenu izvršenja i utrošku memorije. Napisati i predati kratak izveštaj poređenja performansi algoritama za različite ulazne nizove. 
+
+Za sortiranje koristiti celobrojne slučajne vrednosti iz opsega od 0 do 10000.   
+
+Sortirati slučajno generisane nizove celih brojeva od 100, 1000, 10k, 100k, 1M i 10M elemenata.  
+
+Za implementaciju Radix sorta koristiti bilo koji stabilan algoritam. 
+
+ 
+
+Problem 1: 
+
+Fabrika čokolade je predstavljena celobrojnim nizom od N elemenata, gde i-ti element predstavlja broj čokolada u i-tom paketu. Grupa od M studenata je došla u posetu fabrici i po izlasku svaki student treba da dobije tačno jedan paket. Raspodeliti pakete studentima tako da razlika između maksimalnog i minimalnog broja čokolada u paketima datim studentima bude minimalna. Prikazati dobijenu razliku. Uzeti da je M 30% vrednosti N. 
+
+ 
+
+Problem 2: 
+
+Prodavnica slatkiša sadrži N različitih tipova slatkiša. Različiti slatkiši su predstavljeni celobrojnim nizom gde i-ti element predstavlja cenu i-tog slatkiša. Student je rešio da proba sve vrste slatkiša koje prodavnica ima u ponudi, a prodavac mu je ponudio specijalnu akciju, za kupovinu jednog slatkiša, student može da dobije najviše K različitih slatkiša besplatno. Naći najmanji iznos novca koji student može da potroši kako bi probao svih N različitih vrsta slatkiša. Smatrati da je K 20% vrednosti N. 
+
+ 
+
+Cifra 3 => Problem 2, Selection, Merge, Sounting sort

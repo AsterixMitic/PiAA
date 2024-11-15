@@ -1,0 +1,81 @@
+ - Za niz duzine : 100
+
+Counting sort
+Prosecno vreme izvrsavanja: 5 mikrosekundi
+Najjeftiniji iznos: 77
+
+Merge sort
+Prosecno vreme izvrsavanja: 30 mikrosekundi
+Najjeftiniji iznos: 77
+
+Selection sort
+Prosecno vreme izvrsavanja: 11 mikrosekundi
+Najjeftiniji iznos: 77
+
+ - Za niz duzine : 1000
+
+Counting sort
+Prosecno vreme izvrsavanja: 12 mikrosekundi
+Najjeftiniji iznos: 24
+
+Merge sort
+Prosecno vreme izvrsavanja: 707 mikrosekundi
+Najjeftiniji iznos: 24
+
+Selection sort
+Prosecno vreme izvrsavanja: 987 mikrosekundi
+Najjeftiniji iznos: 24
+
+ - Za niz duzine : 10000
+
+Counting sort
+Prosecno vreme izvrsavanja: 191 mikrosekundi
+Najjeftiniji iznos: 5
+
+Merge sort
+Prosecno vreme izvrsavanja: 6.17 ms
+Najjeftiniji iznos: 5
+
+Selection sort
+Prosecno vreme izvrsavanja: 42.6 ms
+Najjeftiniji iznos: 5
+
+ - Za niz duzine : 100000
+
+Counting sort
+Prosecno vreme izvrsavanja: 1.409 ms
+Najjeftiniji iznos: 5
+
+Merge sort
+Prosecno vreme izvrsavanja: 23.057 ms
+Najjeftiniji iznos: 5
+
+Selection sort
+Prosecno vreme izvrsavanja: 4193.56 ms
+Najjeftiniji iznos: 5
+
+ - Za niz duzine : 1000000
+
+Counting sort
+Prosecno vreme izvrsavanja: 12.253 ms
+Najjeftiniji iznos: 0
+
+Merge sort
+Prosecno vreme izvrsavanja: 760.783 ms
+Najjeftiniji iznos: 0
+
+Selection sort
+Prosecno vreme izvrsavanja: 351670 ms
+Najjeftiniji iznos: 0
+
+ - Za niz duzine : 10000000
+
+Counting sort
+Prosecno vreme izvrsavanja: 88.064 ms
+Najjeftiniji iznos: 5
+
+Merge sort
+Prosecno vreme izvrsavanja: 4835.47 ms
+Najjeftiniji iznos: 5
+
+Selection sort
